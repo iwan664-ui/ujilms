@@ -1,0 +1,6 @@
+{
+  "name": "MADANI - Sistem Informasi & LMS Madrasah Digital Terintegrasi",
+  "description": "Sistem Informasi Manajemen dan Learning Management System (LMS) Madrasah Digital Terintegrasi mencakup Kurikulum, Kesiswaan, Keasramaan & Tahfiz, Humas, Sarpras, dan PWA Guru.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
